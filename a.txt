@@ -10,4 +10,5 @@ git config global
 git config global 
 git config global 
 git config global 
-git config globalwqwq
+git config globa
+qunidede1lwqwq
