@@ -12,3 +12,5 @@ git config global
 git config global 
 git config globa
 qunidede1lwqwq
+qunidecascwcx
+sas
