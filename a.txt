@@ -1,5 +1,5 @@
 
-hello git?? 123 456
+hello git?? 12 456
 git config global 
 git config global 
 git config global 
