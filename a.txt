@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 hello git??
-git config global 123
+git config global 123456
+git config global 
+>>>>>>> hot-fix
 git config global 
 git config global 
 git config global 
@@ -15,3 +18,5 @@ qunidede1lwqwq
 qunidecascwcx
 sas
 qwdqeqdqevs
+1+1=2
+2=2=2
